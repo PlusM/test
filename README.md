@@ -29,4 +29,4 @@ Here's some code:
     <script type="text/javascript" src="../../lib/d3.js"></script>
 </head>'
 
-* This is ready for staging now
+* This is ready for staging right now
